@@ -7,9 +7,9 @@ Bun venit la workshopul nostru din cadrul taberei „Viitori Olimpici”! În ac
 ### Obiectivele Workshopului
 
 1. **Introducerea în Reinforcement Learning (RL)**:
-   - **Prezentare**: Vom explora câteva proiecte dragi și inovatoare în domeniul RL, pentru a înțelege aplicabilitatea și importanța acestuia în diverse scenarii.
+   - **Prezentare**: Vom explora câteva proiecte inovatoare în domeniul RL, pentru a înțelege aplicabilitatea și importanța acestuia în diverse scenarii.
 
-2. **Colab Notebook -  Reinforcement Learning**:
+2. **Colab Notebook -  Reinforcement Learning**: https://colab.research.google.com/drive/1CD9usrmFR8-UzkdbnDoKbv_BRzxOpsMJ?usp=sharing
    - **Algoritmul Minimax**: Vom învăța cum funcționează algoritmul Minimax, un concept central în teoria deciziilor și RL, prin intermediul unui joc clasic de X și 0.
    - **Extinderea Jocului**: Vom analiza cum creșterea dimensiunilor tablei de joc influențează complexitatea jocului și necesitatea utilizării unor funcții euristice.
    - **Funcții Euristice**: Vom discuta despre cum să dezvoltăm și să aplicăm funcții euristice pentru a evalua și a optimiza strategii într-un joc cu dimensiuni mai mari.
