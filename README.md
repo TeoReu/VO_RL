@@ -1,4 +1,4 @@
-# README pentru Workshopul "Viitori Olimpici" – Reinforcement Learning
+Workshopul "Viitori Olimpici" – Reinforcement Learning
 
 ## Descrierea Workshopului
 
