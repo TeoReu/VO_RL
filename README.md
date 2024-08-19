@@ -29,14 +29,33 @@ Bun venit la workshopul nostru din cadrul taberei „Viitori Olimpici”! În ac
    - Introducerea conceptului de funcții euristice și aplicarea lor în jocul extins.
    - Activitate practică: Crearea și testarea unei funcții euristice pentru optimizarea jocului.
 
-### Materiale și Resurse
 
-- **Prezentări**: Slide-uri și resurse vizuale pentru explicarea conceptelor.
-- **Cod Exemple**: Exemple de cod pentru implementarea algoritmului Minimax și a funcțiilor euristice.
-- **Resurse Adiționale**: Linkuri către lecturi suplimentare și tutoriale online pentru aprofundarea subiectului.
+### Resurse adiționale pentru Reinforcement Learning
 
----
+Pentru aprofundarea cunoștințelor și explorarea unor concepte mai avansate în Reinforcement Learning (RL), iată câteva resurse și algoritmi interesanți:
 
-**Pentru întrebări suplimentare sau clarificări, nu ezitați să ne contactați la [adresa de email].**
+#### **Resurse Recomandate**
+
+1. **Cărți:**
+   - **"Reinforcement Learning: An Introduction"** de Richard S. Sutton și Andrew G. Barto: O resursă esențială pentru înțelegerea conceptelor fundamentale și avansate în RL.
+   - **"Deep Reinforcement Learning Hands-On"** de Maxim Lapan: O carte practică care combină teoria cu implementarea practică folosind Python.
+
+2. **Algoritmi Interesanți**
+
+   - **Q-Learning** Un algoritm de învățare bazat pe valori care utilizează o tabelă Q pentru a învăța politica optimă într-un mediu de tip Markov Decision Process (MDP).
+
+   - **SARSA (State-Action-Reward-State-Action)** Un alt algoritm bazat pe valori care este similar cu Q-Learning, dar actualizează valoarea Q folosind acțiunile efectuate efectiv, nu cele optime.
+
+   - **Deep Q-Networks (DQN)** Extinderea Q-Learning care utilizează rețele neuronale profunde pentru a estima funcția de valoare Q, adaptabilă la medii complexe cu spații mari de stare.
+
+   - **Policy Gradient Methods** Algoritmi care optimizează direct politica (strategia) prin maximizarea unui obiectiv pe baza gradientului funcției de recompensă.
+
+   - **Proximal Policy Optimization (PPO)** Un algoritm de optimizare a politicii care este stabil și eficient, adesea utilizat în medii de RL complexe.
+
+   - **Actor-Critic Methods** Algoritmi care combină metodele de optimizare a politicii și metodele de valoare pentru a îmbunătăți performanța și stabilitatea învățării.
+
+
+
+**Vă dorim succes în aprofundarea Reinforcement Learning și explorarea acestor concepte fascinante!**
 
 **Vă dorim mult succes și distracție la workshop!**
